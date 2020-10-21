@@ -1,6 +1,6 @@
 [Midou Blog](https://syqlyx.github.io)
 ================================
-[Hux Blog 👉](README_Hux.md)
+[Hux Blog 👉](Hux.md)
 
 
 License
