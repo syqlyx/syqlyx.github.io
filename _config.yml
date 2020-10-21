@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: shenyanqing1105@gmail.com
 description: "关于论文阅读、学习资源和碎碎念的整理 | 沈艳晴，student| 这里是 @Midou沈艳晴 的个人博客，与你一起发现更大的世界。"
 keyword: "沈艳晴, Midou, syq, 小晴晴, @midou, 晴晴子的博客, Midou Blog, 博客, 个人网站, 互联网, Web, SLAM"
-url: "https://midou.me"              # your host, for absolute URL
+url: "https://syqlyx.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
