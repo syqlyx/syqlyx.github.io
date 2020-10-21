@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: syqlyx
 
 # Netease settings
 netease_comment: false
@@ -71,15 +71,15 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I never lose, I either win or learn<br>不断学习，不断沉淀，做一个内心有迷人宇宙的人。"
+sidebar-avatar: /img/syq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -103,8 +103,8 @@ page-mathjax: false
 # Friends
 friends: [
 {
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "黄玄",
+        href: "http://huangxuan.me/"
     }
 ]
 
